@@ -4,7 +4,7 @@
 #include<cstdlib>
 #include<iomanip>
 
-using namespace std;
+using namespace std
 
 class Unit{
 		string name;
